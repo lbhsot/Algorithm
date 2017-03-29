@@ -12,7 +12,7 @@ import java.util.List;
  *
  * 两层循环嵌套，所以时间复杂度为O(N^2)
  * 时间复杂度非常高
- * 解决了桶排序浪费空间的问题，但是算法执行效率被牺牲了
+ * 解决了桶排序浪费空间的问题，但是牺牲了算法执行效率
  */
 public class BuddleSort {
     public static void main(String[] args){
