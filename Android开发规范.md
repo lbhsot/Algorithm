@@ -64,11 +64,11 @@ private int mPageOffset;
 功能\_header\_list\_页面，为ListView的HeaderView命名格式   
 功能\_footer\_list\_页面，为ListView的FooterView命名格式   
 eg:   
-	```
-	microblog_activity_details        //blog详情页面  
-	microblog_fragement_list       //blog列表界面   
-	...
-	```   
+```
+microblog_activity_details        //blog详情页面  
+microblog_fragement_list       //blog列表界面   
+...
+```   
 #### 8.strings的命名   
 <类名>\_{<范围>\_}<逻辑名>   
 eg：   
